@@ -1,2 +1,2 @@
 # PFrepo
-MEAN Stack app of the Task given by Pristine Fire.
+MEAN Stack App for the task given by Pristine Fire.
