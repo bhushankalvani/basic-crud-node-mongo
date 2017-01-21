@@ -4,12 +4,19 @@ angularApp repo contains the AngularJS App of the MEAN Stack Task.
 It is the front-end with basic bootstrap, focusing more on the SPA, CRUD operations in the AngularJS. This app is the basic phonebook designed to keep the contacts along with their numbers and number types.
 
 The database schema is as:
+
 {
+
   name: string
+
   phonenumbers: [{
+
     type: string,
+
     number: string
+
   }]
+
 }
 
 Following this schema, after the welcome page, all the contacts, already present in the database load and show up as a list.(as shown in '/screenshots/screenshot2').
