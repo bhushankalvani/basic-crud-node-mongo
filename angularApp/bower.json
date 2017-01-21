@@ -1,0 +1,32 @@
+{
+  "name": "phonebook",
+  "authors": [
+    "bhushankalvani@gmail.com"
+  ],
+  "description": "AngularJS app to maintain contacts in a phonebook.",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "html",
+    "css",
+    "js",
+    "bootstrap",
+    "app",
+    "web-app"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.4.1",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1"
+  }
+}

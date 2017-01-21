@@ -1,0 +1,37 @@
+html,body{
+	position: relative;
+	background-color: rgba(0,0,0,0.3) !important;
+	/*To prevent selection of any kind*/
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.mainUIView{
+	margin-top:51px;
+}
+.bootstrap-row{
+	margin:0;
+	padding:0;
+}
+.btn-no-radius{
+	border-radius:0;
+}
+.top-right{
+	padding-top:15px;
+}
+.col-bordered{
+	border:1px solid white;
+}
+.col-fixed{
+	margin-top:5%;
+	min-height:300px;
+	max-height:350px;
+	overflow-y:auto;
+}
+.custom-hr{
+	margin:0;
+	background-color:#000000;
+}
