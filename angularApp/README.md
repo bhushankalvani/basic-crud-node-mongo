@@ -6,17 +6,11 @@ It is the front-end with basic bootstrap, focusing more on the SPA, CRUD operati
 The database schema is as:
 
 {
-
-  name: string
-
-  phonenumbers: [{
-
-    type: string,
-
-    number: string
-
-  }]
-
+    name: string
+    phonenumbers: [{
+      type: string,
+      number: string
+    }]
 }
 
 Following this schema, after the welcome page, all the contacts, already present in the database load and show up as a list.(as shown in '/screenshots/screenshot2').
