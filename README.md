@@ -1,2 +1,5 @@
 # basic-crud-node-mongo
-MEAN Stack App for the task given by Pristine Fire.
+
+A very basic phonebook MEAN Stack App.
+
+Was created as a task for a company interview (Pristine Fire)
